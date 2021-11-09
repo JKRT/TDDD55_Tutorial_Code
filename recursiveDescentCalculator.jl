@@ -1,4 +1,5 @@
 #=
+Author: John Tinnerholm
 Grammar:
 <exp>    ::= <term><exp'>
 <exp'>   ::= +<term><exp'> | - <term><exp'> | ϵ
