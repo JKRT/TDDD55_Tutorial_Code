@@ -1,6 +1,11 @@
 # TDDD55_Tutorial_Code
 Some examples for the course TDDD55
 
+## Some additional information
+There are two variants of the recursive descent calculator.
+recursiveDescentCalculator.jl implements a calculator. 
+The other example simply accepts or rejects the given expression. 
+
 ## Example on how to run the recursive descent calculator 
 ```
 > julia recursiveDescentCalculator.jl
